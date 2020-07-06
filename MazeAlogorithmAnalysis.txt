@@ -1,0 +1,488 @@
+Dimension: 4 p=0.0 in seconds.DFS: 0.0
+BFS: 0.0
+aStar with euclidean heuristic: 0.0007984161376953125
+aStar with manhattan heuristic: 0.0001994609832763672
+Bidirectional BFS: 0.0Dimension: 4 p=0.05 in seconds.DFS: 0.0
+BFS: 0.0003963947296142578
+aStar with euclidean heuristic: 0.00020728111267089843
+aStar with manhattan heuristic: 0.0009919166564941405
+Bidirectional BFS: 0.0Dimension: 4 p=0.1 in seconds.DFS: 0.00019903182983398436
+BFS: 0.000595712661743164
+aStar with euclidean heuristic: 0.0006014823913574219
+aStar with manhattan heuristic: 0.0002661705017089844
+Bidirectional BFS: 0.0003333091735839844Dimension: 4 p=0.25 in seconds.DFS: 0.00019841194152832032
+BFS: 0.0005997657775878906
+aStar with euclidean heuristic: 0.0004980564117431641
+aStar with manhattan heuristic: 0.0004008293151855469
+Bidirectional BFS: 0.0005989551544189453Dimension: 4 p=0.5 in seconds.DFS: 0.0004881620407104492
+BFS: 0.0
+aStar with euclidean heuristic: 0.0
+aStar with manhattan heuristic: 0.0
+Bidirectional BFS: No paths foundDimension: 4 p=0.75 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.0
+Bidirectional BFS: No paths foundDimension: 6 p=0.0 in seconds.DFS: 0.0002105712890625
+BFS: 0.0008512020111083984
+aStar with euclidean heuristic: 0.0009911537170410156
+aStar with manhattan heuristic: 0.0011104583740234376
+Bidirectional BFS: 0.0006013870239257813Dimension: 6 p=0.05 in seconds.DFS: 0.0005018711090087891
+BFS: 0.00011262893676757812
+aStar with euclidean heuristic: 0.0008069992065429688
+aStar with manhattan heuristic: 0.0010214805603027343
+Bidirectional BFS: 0.0005105018615722656Dimension: 6 p=0.1 in seconds.DFS: 0.0002063751220703125
+BFS: 0.00039854049682617185
+aStar with euclidean heuristic: 0.00081787109375
+aStar with manhattan heuristic: 0.0005128383636474609
+Bidirectional BFS: 0.00011172294616699219Dimension: 6 p=0.25 in seconds.DFS: 0.0004922866821289063
+BFS: 0.0004001617431640625
+aStar with euclidean heuristic: 0.0006645520528157552
+aStar with manhattan heuristic: 0.00071258544921875
+Bidirectional BFS: 0.0003314812978108724Dimension: 6 p=0.5 in seconds.DFS: 0.0010263919830322266
+BFS: No paths found
+aStar with euclidean heuristic: 0.0
+aStar with manhattan heuristic: 0.00071258544921875
+Bidirectional BFS: No paths foundDimension: 6 p=0.75 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.00071258544921875
+Bidirectional BFS: No paths foundDimension: 10 p=0.0 in seconds.DFS: 0.0007953643798828125
+BFS: 0.0010128021240234375
+aStar with euclidean heuristic: 0.0033281803131103515
+aStar with manhattan heuristic: 0.003364419937133789
+Bidirectional BFS: 0.0015760898590087891Dimension: 10 p=0.05 in seconds.DFS: 0.0005877494812011718
+BFS: 0.001093292236328125
+aStar with euclidean heuristic: 0.0034981250762939455
+aStar with manhattan heuristic: 0.002405691146850586
+Bidirectional BFS: 0.0011977672576904297Dimension: 10 p=0.1 in seconds.DFS: 0.00019240379333496094
+BFS: 0.0010179519653320313
+aStar with euclidean heuristic: 0.002381753921508789
+aStar with manhattan heuristic: 0.00280609130859375
+Bidirectional BFS: 0.000978231430053711Dimension: 10 p=0.25 in seconds.DFS: 0.0005948543548583984
+BFS: 0.001029670238494873
+aStar with euclidean heuristic: 0.001973231633504232
+aStar with manhattan heuristic: 0.002009868621826172
+Bidirectional BFS: 0.0009922981262207031Dimension: 10 p=0.5 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.002009868621826172
+Bidirectional BFS: No paths foundDimension: 10 p=0.75 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.002009868621826172
+Bidirectional BFS: No paths foundDimension: 20 p=0.0 in seconds.DFS: 0.001423215866088867
+BFS: 0.002653646469116211
+aStar with euclidean heuristic: 0.020366716384887695
+aStar with manhattan heuristic: 0.018224239349365234
+Bidirectional BFS: 0.0036565780639648436Dimension: 20 p=0.05 in seconds.DFS: 0.0011934280395507813
+BFS: 0.0027810096740722655
+aStar with euclidean heuristic: 0.018374061584472655
+aStar with manhattan heuristic: 0.016754770278930665
+Bidirectional BFS: 0.003429079055786133Dimension: 20 p=0.1 in seconds.DFS: 0.0015966415405273438
+BFS: 0.0026102066040039062
+aStar with euclidean heuristic: 0.01533370018005371
+aStar with manhattan heuristic: 0.013382434844970703
+Bidirectional BFS: 0.002989053726196289Dimension: 20 p=0.25 in seconds.DFS: 0.0019925435384114585
+BFS: 0.0027969837188720702
+aStar with euclidean heuristic: 0.008608400821685791
+aStar with manhattan heuristic: 0.006006717681884766
+Bidirectional BFS: 0.002717912197113037Dimension: 20 p=0.5 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.006006717681884766
+Bidirectional BFS: No paths foundDimension: 20 p=0.75 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.006006717681884766
+Bidirectional BFS: No paths foundDimension: 4 p=0.0q=0.03 in seconds.DFS: 0.0009939074516296387
+BFS: 0.001352071762084961
+aStar with euclidean heuristic: 0.0025016069412231445
+aStar with manhattan heuristic: 0.0017783164978027344
+Bidirectional BFS: 0.0008095264434814453Dimension: 4 p=0.05q=0.03 in seconds.DFS: 0.0007610917091369629
+BFS: 0.0013764381408691406
+aStar with euclidean heuristic: 0.0018081188201904297
+aStar with manhattan heuristic: 0.002232849597930908
+Bidirectional BFS: 0.001012706756591797Dimension: 4 p=0.1q=0.03 in seconds.DFS: 0.0010173320770263672
+BFS: 0.0014136791229248046
+aStar with euclidean heuristic: 0.002062559127807617
+aStar with manhattan heuristic: 0.0013086199760437012
+Bidirectional BFS: 0.001537466049194336Dimension: 4 p=0.25q=0.03 in seconds.DFS: 0.0010197162628173828
+BFS: 0.0009720325469970703
+aStar with euclidean heuristic: 0.0014249682426452637
+aStar with manhattan heuristic: 0.0013230641682942708
+Bidirectional BFS: 0.0005133152008056641Dimension: 4 p=0.5q=0.03 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: 0.0009838342666625977
+aStar with manhattan heuristic: 0.0
+Bidirectional BFS: 0.0010218620300292969Dimension: 4 p=0.75q=0.03 in seconds.DFS: No paths found
+BFS: 0.0010306835174560547
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.0q=0.03 in seconds.DFS: 0.0025841712951660155
+BFS: 0.005467017491658528
+aStar with euclidean heuristic: 0.005463004112243652
+aStar with manhattan heuristic: 0.006262683868408203
+Bidirectional BFS: 0.004212284088134765Dimension: 6 p=0.05q=0.03 in seconds.DFS: 0.00234377384185791
+BFS: 0.006237411499023437
+aStar with euclidean heuristic: 0.007719516754150391
+aStar with manhattan heuristic: 0.007618904113769531
+Bidirectional BFS: 0.004248619079589844Dimension: 6 p=0.1q=0.03 in seconds.DFS: 0.0021891117095947264
+BFS: 0.005182886123657226
+aStar with euclidean heuristic: 0.004473328590393066
+aStar with manhattan heuristic: 0.0065021514892578125
+Bidirectional BFS: 0.0027676820755004883Dimension: 6 p=0.25q=0.03 in seconds.DFS: 0.0028095245361328125
+BFS: 0.004972378412882487
+aStar with euclidean heuristic: 0.0032155513763427734
+aStar with manhattan heuristic: 0.003047466278076172
+Bidirectional BFS: 0.0024109840393066405Dimension: 6 p=0.5q=0.03 in seconds.DFS: No paths found
+BFS: 0.0031015872955322266
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.75q=0.03 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.0q=0.03 in seconds.DFS: 0.009187078475952149
+BFS: 0.04089927673339844
+aStar with euclidean heuristic: 0.04388761520385742
+aStar with manhattan heuristic: 0.046854615211486816
+Bidirectional BFS: 0.03353471755981445Dimension: 10 p=0.05q=0.03 in seconds.DFS: 0.010099554061889648
+BFS: 0.04897463321685791
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0398521900177002Dimension: 10 p=0.1q=0.03 in seconds.DFS: 0.008240342140197754
+BFS: 0.03477234840393066
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.03291487693786621
+Bidirectional BFS: 0.030214452743530275Dimension: 10 p=0.25q=0.03 in seconds.DFS: 0.01746678352355957
+BFS: 0.04426844914754232
+aStar with euclidean heuristic: 0.03489971160888672
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.03172183036804199Dimension: 10 p=0.5q=0.03 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.011962175369262695
+Bidirectional BFS: No paths foundDimension: 10 p=0.75q=0.03 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.0q=0.03 in seconds.DFS: 0.06510841846466064
+BFS: 0.3879751682281494
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.3807102680206299Dimension: 20 p=0.05q=0.03 in seconds.DFS: 0.06303219795227051
+BFS: 0.3225139379501343
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.32218327522277834Dimension: 20 p=0.1q=0.03 in seconds.DFS: 0.06033577919006348
+BFS: 0.3373776276906331
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.39118266105651855
+Bidirectional BFS: 0.2963881969451904Dimension: 20 p=0.25q=0.03 in seconds.DFS: 0.06312886873881023
+BFS: 0.2912256717681885
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.17426935831705728
+Bidirectional BFS: 0.22240853309631348Dimension: 20 p=0.5q=0.03 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.75q=0.03 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 4 p=0.0q=0.09 in seconds.DFS: 0.000491023063659668
+BFS: 0.001263260841369629
+aStar with euclidean heuristic: 0.0014728307723999023
+aStar with manhattan heuristic: 0.00200653076171875
+Bidirectional BFS: 0.0012137413024902344Dimension: 4 p=0.05q=0.09 in seconds.DFS: 0.0006649494171142578
+BFS: 0.0009778738021850586
+aStar with euclidean heuristic: 0.0009971857070922852
+aStar with manhattan heuristic: 0.000997304916381836
+Bidirectional BFS: 0.0007477402687072754Dimension: 4 p=0.1q=0.09 in seconds.DFS: 0.00019960403442382814
+BFS: 0.0009964704513549805
+aStar with euclidean heuristic: 0.0009978612263997395
+aStar with manhattan heuristic: 0.0007477998733520508
+Bidirectional BFS: 0.0009974956512451172Dimension: 4 p=0.25q=0.09 in seconds.DFS: 0.0010228157043457031
+BFS: 0.0013075669606526692
+aStar with euclidean heuristic: 0.0
+aStar with manhattan heuristic: 0.0009971459706624348
+Bidirectional BFS: 0.0010053515434265137Dimension: 4 p=0.5q=0.09 in seconds.DFS: No paths found
+BFS: 0.000997304916381836
+aStar with euclidean heuristic: 0.001001596450805664
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 4 p=0.75q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.0q=0.09 in seconds.DFS: 0.002482116222381592
+BFS: 0.004327297210693359
+aStar with euclidean heuristic: 0.005020618438720703
+aStar with manhattan heuristic: 0.004984617233276367
+Bidirectional BFS: 0.003988409042358398Dimension: 6 p=0.05q=0.09 in seconds.DFS: 0.001783450444539388
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.0048149824142456055
+Bidirectional BFS: 0.0029889345169067383Dimension: 6 p=0.1q=0.09 in seconds.DFS: 0.0020128885904947915
+BFS: 0.0029876232147216797
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.003767669200897217Dimension: 6 p=0.25q=0.09 in seconds.DFS: 0.0017717480659484863
+BFS: 0.0029749274253845215
+aStar with euclidean heuristic: 0.0029900074005126953
+aStar with manhattan heuristic: 0.0019941329956054688
+Bidirectional BFS: 0.0026465257008870444Dimension: 6 p=0.5q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.75q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.0q=0.09 in seconds.DFS: 0.007455706596374512
+BFS: 0.023976802825927734
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.01861747105916341Dimension: 10 p=0.05q=0.09 in seconds.DFS: 0.008592796325683594
+BFS: 0.02426322301228841
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.02057701349258423Dimension: 10 p=0.1q=0.09 in seconds.DFS: 0.007278839747111003
+BFS: 0.018471837043762207
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.01898670196533203
+Bidirectional BFS: 0.018649895985921223Dimension: 10 p=0.25q=0.09 in seconds.DFS: 0.006331443786621094
+BFS: 0.021087825298309326
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.012965679168701172
+Bidirectional BFS: 0.015956878662109375Dimension: 10 p=0.5q=0.09 in seconds.DFS: No paths found
+BFS: 0.010970354080200195
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.75q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.0q=0.09 in seconds.DFS: 0.060074408849080406
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.05q=0.09 in seconds.DFS: 0.05698246955871582
+BFS: 0.5104537010192871
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.15458917617797852Dimension: 20 p=0.1q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.25q=0.09 in seconds.DFS: No paths found
+BFS: 0.20445704460144043
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.16528852780659994Dimension: 20 p=0.5q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.75q=0.09 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 4 p=0.0q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0005192756652832031Dimension: 4 p=0.05q=0.27 in seconds.DFS: 0.0
+BFS: 0.0009934107462565105
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0006667772928873698Dimension: 4 p=0.1q=0.27 in seconds.DFS: 0.000997304916381836
+BFS: 0.0010200341542561848
+aStar with euclidean heuristic: 0.0010313987731933594
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0004971027374267578Dimension: 4 p=0.25q=0.27 in seconds.DFS: 0.0
+BFS: 0.0010135173797607422
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.000997304916381836Dimension: 4 p=0.5q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: 0.0
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0Dimension: 4 p=0.75q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: 0.0
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.0q=0.27 in seconds.DFS: 0.0019989013671875
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.05q=0.27 in seconds.DFS: 0.0014832019805908203
+BFS: 0.0030260086059570312
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0032399892807006836Dimension: 6 p=0.1q=0.27 in seconds.DFS: 0.0010012388229370117
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0019958019256591797Dimension: 6 p=0.25q=0.27 in seconds.DFS: 0.0020258426666259766
+BFS: No paths found
+aStar with euclidean heuristic: 0.001982450485229492
+aStar with manhattan heuristic: 0.002994537353515625
+Bidirectional BFS: No paths foundDimension: 6 p=0.5q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: 0.0009980201721191406
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.75q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.0q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.05q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.1q=0.27 in seconds.DFS: 0.008951544761657715
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.25q=0.27 in seconds.DFS: 0.00599217414855957
+BFS: 0.026917695999145508
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.5q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.75q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.0q=0.27 in seconds.DFS: 0.05086326599121094
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.05q=0.27 in seconds.DFS: 0.06567160288492839
+BFS: No paths found
+aStar with euclidean heuristic: 0.5131464004516602
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.1q=0.27 in seconds.DFS: 0.05408120155334473
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.25q=0.27 in seconds.DFS: 0.06482696533203125
+BFS: No paths found
+aStar with euclidean heuristic: 0.42430996894836426
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.5q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.75q=0.27 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 4 p=0.0q=0.7 in seconds.DFS: 0.001054525375366211
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0Dimension: 4 p=0.05q=0.7 in seconds.DFS: No paths found
+BFS: 0.000978231430053711
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0009938478469848633Dimension: 4 p=0.1q=0.7 in seconds.DFS: No paths found
+BFS: 0.0010182857513427734
+aStar with euclidean heuristic: 0.0009882450103759766
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 4 p=0.25q=0.7 in seconds.DFS: No paths found
+BFS: 0.0019943714141845703
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 4 p=0.5q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0Dimension: 4 p=0.75q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.0q=0.7 in seconds.DFS: 0.0034886598587036133
+BFS: No paths found
+aStar with euclidean heuristic: 0.011295080184936523
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.05q=0.7 in seconds.DFS: No paths found
+BFS: 0.003977775573730469
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0019936561584472656Dimension: 6 p=0.1q=0.7 in seconds.DFS: 0.0010061264038085938
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.0030312538146972656Dimension: 6 p=0.25q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.5q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 6 p=0.75q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.0q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: 0.04304838180541992Dimension: 10 p=0.05q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.1q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.25q=0.7 in seconds.DFS: 0.009972572326660156
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 10 p=0.5q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: 0.011968374252319336
+Bidirectional BFS: No paths foundDimension: 10 p=0.75q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.0q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.05q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.1q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.25q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.5q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths foundDimension: 20 p=0.75q=0.7 in seconds.DFS: No paths found
+BFS: No paths found
+aStar with euclidean heuristic: No paths found
+aStar with manhattan heuristic: No paths found
+Bidirectional BFS: No paths found
+=============================================
+Overall times for each algorithm over all parameters
+DFS: 0.014187263388966406
+BFS: 0.04837778739739155
+aStar with euclidean heuristic: 0.04279564488780955
+aStar with manhattan heuristic: 0.027343575159708654
+bidirectional BFS:  0.043359494496047285
